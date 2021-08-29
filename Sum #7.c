@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 main(){
 	int arreglo [10],i,n,contador;
 	contador=0;
